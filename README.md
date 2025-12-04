@@ -741,3 +741,4 @@ Multi-Cluster
 Troubleshooting Kit
 └── netshoot pod + kubectl top + cilium status + falco logs
 ```
+Please refer to this https://www.lucavall.in/blog/a-quick-journey-into-the-linux-kernel
